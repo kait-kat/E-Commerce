@@ -13,9 +13,9 @@ The package.json should have all the needed dependencies, so all you need to do 
 
 ## Usage
 
-> Make sure to install all the dependencies.
-> Use MYSQL to set up your database.
-> Run npm seed to seed the data.
-> Running npm start should get you set up with your localhost and ready to make queries!
+> - Make sure to install all the dependencies.
+> - Use MYSQL to set up your database.
+> - Run npm seed to seed the data.
+> - Running npm start should get you set up with your localhost and ready to make queries!
 
  Here is a link to a demonstrationn video! [Demo](https://clipchamp.com/watch/S3fCDJWFYX9)
