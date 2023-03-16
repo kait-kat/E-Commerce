@@ -25,12 +25,10 @@ Product.init(
     },
     stock: {
       type: DataTypes.INTEGER,
-      references: {
-        model: 'category',
-        key: 'id'
-      }
-    }
-  },
+      allowNull: false,
+      defaultValue: 10,
+      },
+    },
   {
     sequelize,
     timestamps: false,
