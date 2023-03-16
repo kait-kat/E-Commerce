@@ -2,10 +2,15 @@
 
 ## Description
 
-A backend focussed application that deals with database input. It uses GET and POST requests
+A backend focussed application that deals with database input. It uses GET, POST, PUT, and DELETE requests to be able to update a populated database. In this case, its built to keep track of a store's stock and makes all the products easily identifiable with key words.
 
 ## User Story
 
+```
+AS A store owner
+I WANT to be able to update my stock records through simple requests and input
+SO THAT I have an accessible and manageable system
+```
 
 ## Installation
 
